@@ -15,51 +15,51 @@
 ## Поиск человека по данным и идентификаторам
 Работа с конкретными идентификаторами считается одним из наиболее точных направлений OSINT. Исходными ключами могут служить телефон, электронная почта, ФИО, IP-адрес, ник или другие уникальные метки. Эти данные позволяют быстро установить цифровой след и связать человека с различными платформами и базами.
 
-* ➡️[Поиск и пробив по **Телефону**](https://github.com/osint-and-search/OSINT_i_probiv_po_telefonu) - методы извлечения сведений из телефонного номера.
-* ➡️[Поиск и пробив по **Почте**](https://github.com/osint-and-search/OSINT_i_probiv_po_email) - подходы к анализу электронной почты.
-* ➡️[Поиск и пробив по **ФИО**](https://github.com/osint-and-search/OSINT_i_probiv_po_FIO) - техники разведки по фамилии, имени и отчеству.
-* ➡️[Поиск и пробив по **Паспорту**](https://github.com/osint-and-search/OSINT_i_probiv_po_pasportu) - инструменты работы с паспортными данными.
-* ➡️[Поиск и пробив по **Карте банка**](https://github.com/osint-and-search/OSINT_i_probiv_po_nomeru_karti) - способы выявления информации по банковской карте.
-* ➡️[Поиск и пробив по **Авто**](https://github.com/osint-and-search/OSINT_i_probiv_po_avto_i_nomeru) - анализ VIN, транспортного средства и его владельца.
-* ➡️[Поиск и пробив по **Правам**](https://github.com/osint-and-search/OSINT_i_probiv_prav) - сервисы для получения данных водительского удостоверения.
-* ➡️[Поиск и пробив по **Адресу**](https://github.com/osint-and-search/OSINT_i_probiv_po_adresu) - поиск по различным адресным сведениям.
-* ➡️[Поиск и пробив по **ИНН**](https://github.com/osint-and-search/OSINT_i_probiv_po_INN) - площадки для сбора сведений о физических и юридических лицах.
+* ➡️[Поиск и пробив по **Телефону**](https://github.com/osint-and-search/OSINT_i_poisk_po_telefonu) - методы извлечения сведений из телефонного номера.
+* ➡️[Поиск и пробив по **Почте**](https://github.com/osint-and-search/OSINT_i_poisk_po_email) - подходы к анализу электронной почты.
+* ➡️[Поиск и пробив по **ФИО**](https://github.com/osint-and-search/OSINT_i_poisk_po_FIO) - техники разведки по фамилии, имени и отчеству.
+* ➡️[Поиск и пробив по **Паспорту**](https://github.com/osint-and-search/OSINT_i_poisk_po_pasportu) - инструменты работы с паспортными данными.
+* ➡️[Поиск и пробив по **Карте банка**](https://github.com/osint-and-search/OSINT_i_poisk_po_nomeru_karti) - способы выявления информации по банковской карте.
+* ➡️[Поиск и пробив по **Авто**](https://github.com/osint-and-search/OSINT_i_poisk_po_avto_i_nomeru) - анализ VIN, транспортного средства и его владельца.
+* ➡️[Поиск и пробив по **Правам**](https://github.com/osint-and-search/OSINT_i_poisk_po_pravam) - сервисы для получения данных водительского удостоверения.
+* ➡️[Поиск и пробив по **Адресу**](https://github.com/osint-and-search/OSINT_i_poisk_po_adresu) - поиск по различным адресным сведениям.
+* ➡️[Поиск и пробив по **ИНН**](https://github.com/osint-and-search/OSINT_i_poisk_po_INN) - площадки для сбора сведений о физических и юридических лицах.
 
 Применение идентификаторов заметно ускоряет сбор информации и повышает точность результатов. Вместе с тем рекомендуется перепроверять полученные сведения через несколько источников и сопоставлять их между собой.
 
 ## Поиск человека по соцсетям
 Социальные сети содержат обширный массив сведений о личности. Анализ профилей помогает определить круг интересов, контакты, активность и дополнительные цифровые следы. Именно с популярных площадок часто начинается полноценный OSINT-исследование, поэтому работа с VK, YouTube и другими ресурсами играет ключевую роль.
 
-* ➡️[Поиск и пробив **ВКонтакте**](https://github.com/osint-and-search/OSINT_i_probiv_VKontakte) - набор инструментов для анализа VK.
-* ➡️[Поиск и пробив **Instagram**](https://github.com/osint-and-search/OSINT_i_probiv_Instagram) - сервисы и методы работы с Instagram.
-* ➡️[Поиск и пробив **YouTube**](https://github.com/osint-and-search/OSINT_i_probiv_YouTube) - подходы к сбору данных на YouTube.
-* ➡️[Поиск и пробив **Facebook**](https://github.com/osint-and-search/OSINT_i_probiv_Facebook) - инструменты для исследования страниц Facebook.
-* ➡️[Поиск и пробив **TikTok**](https://github.com/osint-and-search/OSINT_i_probiv_TikTok) - сервисы аналитики аккаунтов TikTok.
-* ➡️[Поиск и пробив **Linkedin**](https://github.com/osint-and-search/OSINT_i_probiv_Linkedin) - поиск бизнес-информации в LinkedIn.
-* ➡️[Поиск и пробив **Одноклассниках**](https://github.com/osint-and-search/OSINT_i_probiv_Odnoklassniki) - методы анализа Одноклассников.
-* ➡️[Поиск и пробив **МойМир**](https://github.com/osint-and-search/OSINT_i_probiv_MoyMir) - сбор данных в социальной сети Мой Мир.
-* ➡️[Поиск и пробив **X (ex.Twitter)**](https://github.com/osint-and-search/OSINT_i_probiv_X-Twitter) - современные приёмы работы с X (бывший Twitter).
-* ➡️[Поиск и пробив **Twitch**](https://github.com/osint-and-search/OSINT_i_probiv_Twitch) - поиск по платформе Twitch.
+* ➡️[Поиск и пробив **ВКонтакте**](https://github.com/osint-and-search/OSINT_i_poisk_VKontakte) - набор инструментов для анализа VK.
+* ➡️[Поиск и пробив **Instagram**](https://github.com/osint-and-search/OSINT_i_poisk_v_Instagram) - сервисы и методы работы с Instagram.
+* ➡️[Поиск и пробив **YouTube**](https://github.com/osint-and-search/OSINT_i_poisk_v_YouTube) - подходы к сбору данных на YouTube.
+* ➡️[Поиск и пробив **Facebook**](https://github.com/osint-and-search/OSINT_i_poisk_v_Facebook) - инструменты для исследования страниц Facebook.
+* ➡️[Поиск и пробив **TikTok**](https://github.com/osint-and-search/OSINT_i_poisk_v_TikTok) - сервисы аналитики аккаунтов TikTok.
+* ➡️[Поиск и пробив **Linkedin**](https://github.com/osint-and-search/OSINT_i_poisk_v_Linkedin) - поиск бизнес-информации в LinkedIn.
+* ➡️[Поиск и пробив **Одноклассниках**](https://github.com/osint-and-search/OSINT_i_poisk_v_Odnoklassniki) - методы анализа Одноклассников.
+* ➡️[Поиск и пробив **МойМир**](https://github.com/osint-and-search/OSINT_i_poisk_MoyMir) - сбор данных в социальной сети Мой Мир.
+* ➡️[Поиск и пробив **X (ex.Twitter)**](https://github.com/osint-and-search/OSINT_i_poisk_v_X-Twitter) - современные приёмы работы с X (бывший Twitter).
+* ➡️[Поиск и пробив **Twitch**](https://github.com/osint-and-search/OSINT_i_poisk_v_Twitch) - поиск по платформе Twitch.
 
 Даже при частично закрытом профиле можно извлечь полезные зацепки. Важно изучать не только саму страницу, но и связи, публикации и поведение пользователя.
 
 ## Поиск человека в мессенджерах
 Мессенджеры стали значимой частью цифрового следа. Анализ аккаунтов в Telegram, WhatsApp и аналогичных приложениях даёт возможность выявить активные контакты и дополнительные следы. Поскольку через эти платформы часто ведётся общение и работа, их проверка приносит существенную пользу в OSINT-исследовании.
 
-* ➡️[Поиск и пробив **Telegram**](https://github.com/osint-and-search/OSINT_i_probiv_Telegram) - боты и инструменты для глубокого анализа Telegram.
-* ➡️[Поиск и пробив **WhatsApp**](https://github.com/osint-and-search/OSINT_i_probiv_WhatsApp) - платформы получения данных WhatsApp.
-* ➡️[Поиск и пробив **Discord**](https://github.com/osint-and-search/OSINT_i_probiv_Discord) - способы сканирования и анализа Discord.
-* ➡️[Поиск и пробив **ICQ**](https://github.com/osint-and-search/OSINT_i_probiv_ICQ) - попытки извлечения информации из ICQ.
+* ➡️[Поиск и пробив **Telegram**](https://github.com/osint-and-search/OSINT_i_poisk_Telegram) - боты и инструменты для глубокого анализа Telegram.
+* ➡️[Поиск и пробив **WhatsApp**](https://github.com/osint-and-search/OSINT_i_poisk_v_WhatsApp) - платформы получения данных WhatsApp.
+* ➡️[Поиск и пробив **Discord**](https://github.com/osint-and-search/OSINT_i_poisk_v_Discord) - способы сканирования и анализа Discord.
+* ➡️[Поиск и пробив **ICQ**](https://github.com/osint-and-search/OSINT_i_poisk_ICQ) - попытки извлечения информации из ICQ.
 
 Данные из мессенджеров обычно ограничены, но при сочетании с другими источниками становятся ценными. Этот метод лучше применять в составе комплексного исследования.
 
 ## Прочие инструменты для поиска человека
 Помимо основных направлений существуют дополнительные приёмы: поиск по изображениям, игровым профилям и иным параметрам. Такие методы помогают находить неочевидные связи и расширять зону поиска, особенно когда стандартные подходы не дают результата.
 
-* ➡️[Поиск и пробив по **Фото**](https://github.com/osint-and-search/OSINT_i_probiv_po_foto) - современные методы работы с фотографиями.
-* ➡️[Поиск и пробив по **Никнейму**](https://github.com/osint-and-search/OSINT_i_probiv_po_niku) - техники поиска по никнеймам.
-* ➡️[Поиск и пробив по **Играм**](https://github.com/osint-and-search/OSINT_i_probiv_v_igrah-GAMEINT) - сбор сведений через игровые аккаунты.
-* ➡️[Поиск и пробив по **IP**](https://github.com/osint-and-search/OSINT_i_probiv_po_IP) - анализ IP-адресов.
+* ➡️[Поиск и пробив по **Фото**](https://github.com/osint-and-search/OSINT_i_poisk_po_foto) - современные методы работы с фотографиями.
+* ➡️[Поиск и пробив по **Никнейму**](https://github.com/osint-and-search/OSINT_i_poisk_po_niku) - техники поиска по никнеймам.
+* ➡️[Поиск и пробив по **Играм**](https://github.com/osint-and-search/OSINT_i_poisk_v_igrah-GAMEINT) - сбор сведений через игровые аккаунты.
+* ➡️[Поиск и пробив по **IP**](https://github.com/osint-and-search/OSINT_i_poisk_po_IP) - анализ IP-адресов.
 
 Дополнительные инструменты позволяют углубить исследование и обнаружить сведения, которые не попадают в поле зрения при использовании базовых методов.
 
